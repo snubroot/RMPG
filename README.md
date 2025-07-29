@@ -1,3 +1,4 @@
+**Paste the whole block below into any LLM (Ones that use advanced reasoning work best but any will do) . **
 ```
 # RECURSIVE META PROMPT GENERATOR v3.0
 ## Advanced Meta-Prompting Framework with Self-Improvement Capabilities
