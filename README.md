@@ -1,4 +1,5 @@
 **Paste the whole block below into any LLM (Ones that use advanced reasoning work best but any will do) . **
+Link to example video - One of infinite use cases: https://youtu.be/EefiqYrHH_o?si=h0Sn_hIF0wWfvz2R
 ```
 # RECURSIVE META PROMPT GENERATOR v3.0
 ## Advanced Meta-Prompting Framework with Self-Improvement Capabilities
